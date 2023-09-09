@@ -1,4 +1,2 @@
 # Big Title
-The above is a h1
-## Big but smaller title
-The above is a h2
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
